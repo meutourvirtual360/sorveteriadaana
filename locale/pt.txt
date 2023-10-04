@@ -1,0 +1,190 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_CE73109F_EA61_F2D7_41C6_6823E27D49FD.mp3Url = media/audio_CEE4C6F2_EA61_BE69_41E7_CDEC22B5FF1D_pt.mp3
+audiores_E5B6CEF4_EB0F_D112_41D2_A1A1CC501EF4.mp3Url = media/audio_E62DE320_EB0E_B732_41B0_C3D18D3296F5_pt.mp3
+
+### Title
+panorama_C3FD94A1_CEA5_DB6D_41E0_34559C6AC0FD.label = exter-01
+panorama_C22B645E_CEA2_5BD7_4187_A2DF6DD1A41F.label = exter-02
+panorama_C22F99EB_CEA2_6CFD_41E3_3C83FDE1F48C.label = inter-01
+panorama_C22C4DF8_CEA2_24DB_41E4_B662094D2570.label = inter-02
+
+## Skin
+
+### Button
+Button_F0DEEB16_E6E0_8A33_41EB_FAE46251134E.label = AMENITIES >
+Button_CE7E43B3_DDD4_A5B7_41CE_BB573B076859.label = AMENITIES >
+Button_CE7F63C7_DDD4_A5DF_41DC_B853ACE7EB0F.label = BACK
+Button_CE7EF3C8_DDD4_A5D1_418D_DAB2F6A07FEE.label = BACK
+Button_CE7E43C6_DDD4_A5D1_41E4_C3F647B9BB6E.label = BACK
+Button_CE7EC3C5_DDD4_A5D3_41E9_CD32025B3579.label = BACK
+Button_CE79C3C4_DDD4_A5D1_41E5_FBD242CF052B.label = BACK
+Button_F0DC1B1B_E6E0_8A31_41E3_B268FF51CD00.label = BACK
+Button_F0DD1B1A_E6E0_8A33_419D_7970EAB17A82.label = BACK
+Button_F0DE3B19_E6E0_8A31_41D9_89736F5418D1.label = BACK
+Button_CE7E43B5_DDD4_A5B3_41D1_B743021BE99F.label = BACK
+Button_F0DEDB17_E6E0_8A31_4176_EACACF3B65BA.label = BACK
+Button_F0DDCB1D_E6E0_8A31_41A2_83B282776A9D.label = BACK
+Button_F0DC4B1C_E6E0_8A37_41A5_B762825CF3F7.label = BACK
+Button_F0DD0B18_E6E0_8A3F_41D0_AD554F2F2477.label = Bar
+Button_CE7953B6_DDD4_A5B1_41E4_AD8D0664DB8E.label = Bar
+Button_F0DD1B18_E6E0_8A3F_41E2_DE1EA8164450.label = Chill Out
+Button_CE7963B6_DDD4_A5B1_41E4_E733F1EAD8A5.label = Chill Out
+Button_CE7E03B3_DDD4_A5B7_41B3_2A673035BBD1.label = ENTRADA
+Button_CE7993C4_DDD4_A5D1_41E4_1002A1888AEF.label = Garden
+Button_F0DDFB18_E6E0_8A3F_41E2_0E25CE593D19.label = Garden
+Button_F0DEEB16_E6E0_8A33_41EB_FAE46251134E.pressedLabel = Inserdt Text
+Button_CE7E43B3_DDD4_A5B7_41CE_BB573B076859.pressedLabel = Inserdt Text
+Button_CE7E93B5_DDD4_A5B3_41E1_55A192C3E585.label = Lobby
+Button_F0DD6B18_E6E0_8A3F_41E0_2F1D56B61A7E.label = Lobby
+Button_F0DEBB19_E6E0_8A31_41E4_3AF021B8CA60.label = Lorem Ipsum
+Button_F0DEDB19_E6E0_8A31_41E3_1423B2FAFE01.label = Lorem Ipsum
+Button_F0DD6B19_E6E0_8A31_41EB_19FDFE801F07.label = Lorem Ipsum
+Button_F0DD7B19_E6E0_8A31_41E8_9F4A7DBECEEA.label = Lorem Ipsum
+Button_F0DD4B19_E6E0_8A31_41BF_BD6EADB1FCCF.label = Lorem Ipsum
+Button_F0DD3B19_E6E0_8A31_41D0_307F1430ADF1.label = Lorem Ipsum
+Button_F0DEDB19_E6E0_8A31_41E3_1423B2FAFE01.pressedLabel = Lorem Ipsum
+Button_F0DDDB1A_E6E0_8A33_4196_C4CE38B723FC.label = Lorem Ipsum
+Button_F0DDAB1A_E6E0_8A33_41E9_06D130F06A9B.label = Lorem Ipsum
+Button_F0DDBB1A_E6E0_8A33_41D8_048702C18656.label = Lorem Ipsum
+Button_F0DDBB1A_E6E0_8A33_41D8_048702C18656.pressedLabel = Lorem Ipsum
+Button_F0DD8B1A_E6E0_8A33_41E9_618474CCB7EB.label = Lorem Ipsum
+Button_F0DD9B1A_E6E0_8A33_41E1_2C25C57CB053.label = Lorem Ipsum
+Button_CE7F33C9_DDD4_A5D3_41E1_4FE554E82DCC.label = Lorem Ipsum
+Button_F0DC7B1A_E6E0_8A33_41BD_94D639A88317.label = Lorem Ipsum
+Button_F0DC5B1A_E6E0_8A33_41E6_34576CFDD452.label = Lorem Ipsum
+Button_F0DC2B1A_E6E0_8A33_41CD_584C3DD9921C.label = Lorem Ipsum
+Button_F0DC3B1A_E6E0_8A33_41E2_E3F94C1DC355.label = Lorem Ipsum
+Button_CE7FF3C9_DDD4_A5D3_41C5_F6F7DD84FF9F.label = Lorem Ipsum
+Button_F0DD5B1B_E6E0_8A31_41B3_45FA2AA7C2BF.label = Lorem Ipsum
+Button_F0DD3B1B_E6E0_8A31_41E6_815D945F67ED.label = Lorem Ipsum
+Button_F0DD1B1B_E6E0_8A31_41E7_EA769EF588BA.label = Lorem Ipsum
+Button_F0DD1B1B_E6E0_8A31_41E7_EA769EF588BA.pressedLabel = Lorem Ipsum
+Button_F0DDEB1B_E6E0_8A31_41D2_D827017F0A27.label = Lorem Ipsum
+Button_F0DDFB1B_E6E0_8A31_41AC_1107433A9131.label = Lorem Ipsum
+Button_CE7C43C8_DDD4_A5D1_41B6_4DC19555D8FC.label = Lorem Ipsum
+Button_F0DDAB1B_E6E0_8A31_41E5_880B1A49989E.label = Lorem Ipsum
+Button_F0DDBB1C_E6E0_8A37_41EA_F4C04FB23D5F.label = Lorem Ipsum
+Button_F0DD8B1C_E6E0_8A37_41DA_E0E7B34DDEE4.label = Lorem Ipsum
+Button_F0DD9B1C_E6E0_8A37_41DF_BBC5B68118EE.label = Lorem Ipsum
+Button_CE7FB3C9_DDD4_A5D3_41E9_2C449DDA885C.label = Lorem Ipsum
+Button_F0DEAB1C_E6E0_8A37_4199_A93E8930F827.label = Lorem Ipsum
+Button_F0DEBB1C_E6E0_8A37_41E4_E834A0984FCB.label = Lorem Ipsum
+Button_F0DE9B1C_E6E0_8A37_41D5_8B235D746D86.label = Lorem Ipsum
+Button_F0DE9B1C_E6E0_8A37_41D5_8B235D746D86.pressedLabel = Lorem Ipsum
+Button_F0DD7B1C_E6E0_8A37_41D6_B70665F31084.label = Lorem Ipsum
+Button_F0DD4B1C_E6E0_8A37_41E5_1587084152F6.label = Lorem Ipsum
+Button_CE7E23C5_DDD4_A5D3_41E9_ED9B512E397A.label = Lorem Ipsum
+Button_F0DD2B1D_E6E0_8A31_41A9_8183515B2ED4.label = Lorem Ipsum
+Button_F0DD3B1D_E6E0_8A31_41B8_7E4971CD3015.label = Lorem Ipsum
+Button_F0DD0B1D_E6E0_8A31_41D2_A2E81342CA19.label = Lorem Ipsum
+Button_F0DDEB1D_E6E0_8A31_41DD_FFB9521F674B.label = Lorem Ipsum
+Button_CE7E33C5_DDD4_A5D3_41DE_A7B7B98E7532.label = Lorem Ipsum
+Button_F0DD9B1D_E6E0_8A31_41B2_C7EC900D7430.label = Lorem Ipsum
+Button_F0DC4B1D_E6E0_8A31_41C1_9BC9CB0A5C3D.label = Lorem Ipsum
+Button_F0DC5B1D_E6E0_8A31_41EB_BCD493FB06E8.label = Lorem Ipsum
+Button_F0DC5B1D_E6E0_8A31_41EB_BCD493FB06E8.pressedLabel = Lorem Ipsum
+Button_F0DC2B1E_E6E0_8A33_41BF_7D05E5EAC507.label = Lorem Ipsum
+Button_F0DC0B1E_E6E0_8A33_414E_3AE4A2A2F636.label = Lorem Ipsum
+Button_CE7E83C5_DDD4_A5D3_41DC_038B09FCC9D1.label = Lorem Ipsum
+Button_F0DCEB1E_E6E0_8A33_41E1_69F41FFA520F.label = Lorem Ipsum
+Button_F0DC8B1E_E6E0_8A33_41E3_80B69EB48034.label = Lorem Ipsum
+Button_F0DC9B1E_E6E0_8A33_41D3_B35B135A0B9A.label = Lorem Ipsum
+Button_F0D36B1E_E6E0_8A33_41E6_D0DDD0A0D68C.label = Lorem Ipsum
+Button_CE7FA3C9_DDD4_A5D3_41DF_2086814C1305.label = Lorem Ipsum
+Button_CE7F93C9_DDD4_A5D3_41E1_B631C7CD2679.label = Lorem Ipsum
+Button_CE7C13C8_DDD4_A5D1_41E0_DB7C6BEE99B2.label = Lorem Ipsum
+Button_CE7FE3C8_DDD4_A5D1_41D0_E0FA362EAFF4.label = Lorem Ipsum
+Button_CE7F63C9_DDD4_A5D3_41D1_AD07A60DC067.label = Lorem Ipsum
+Button_CE7F53C9_DDD4_A5D3_41E0_E3377D401553.label = Lorem Ipsum
+Button_CE7F43C9_DDD4_A5D3_41E1_658E1512F457.pressedLabel = Lorem Ipsum
+Button_CE7F43C9_DDD4_A5D3_41E1_658E1512F457.label = Lorem Ipsum
+Button_CE7F13C6_DDD4_A5D1_41E3_15C4E446B2D0.label = Lorem Ipsum
+Button_F0DDCB18_E6E0_8A3F_41DF_F0FA2DE4CF75.label = Lorem Ipsum
+Button_CE7F13C6_DDD4_A5D1_41E3_15C4E446B2D0.pressedLabel = Lorem Ipsum
+Button_CE7F23C9_DDD4_A5D3_41B2_14C7EE2729FB.label = Lorem Ipsum
+Button_F0DEAB19_E6E0_8A31_41A8_EEF268785544.label = Lorem Ipsum
+Button_CE7C53C8_DDD4_A5D1_41E3_9B01EA3BD167.label = Lorem Ipsum
+Button_CE7F53C6_DDD4_A5D1_41CD_B868E149E543.label = Lorem Ipsum
+Button_CE7F43C6_DDD4_A5D1_41A1_8FE9D3760D36.label = Lorem Ipsum
+Button_CE7FB3C8_DDD4_A5D1_41D5_F79C43CFB6E7.label = Lorem Ipsum
+Button_F0DEFB19_E6E0_8A31_41E1_ED8C80D806E9.label = Lorem Ipsum
+Button_CE79A3C4_DDD4_A5D1_41EB_4B9879CBF9B8.label = Lorem Ipsum
+Button_CE7C33C8_DDD4_A5D1_41E6_BBBE78B04DE3.label = Lorem Ipsum
+Button_CE79F3C4_DDD4_A5D1_41D3_1E5716933EC2.label = Lorem Ipsum
+Button_CE7E13C5_DDD4_A5D3_41C9_5E29653CF51E.label = Lorem Ipsum
+Button_CE7F83C6_DDD4_A5D1_41C4_46EA8BBC3D57.label = Lorem Ipsum
+Button_CE7E23C5_DDD4_A5D3_41E9_ED9B512E397A.pressedLabel = Lorem Ipsum
+Button_CE7FD3C8_DDD4_A5D1_41E3_EF4E7AB97C1A.label = Lorem Ipsum
+Button_CE7E43C5_DDD4_A5D3_41EB_B7B45A55B061.label = Lorem Ipsum
+Button_CE7E13C6_DDD4_A5D1_41A5_485CD9ABFB6A.label = Lorem Ipsum
+Button_CE7E73C5_DDD4_A5D3_41EA_8A9DA33EC28A.label = Lorem Ipsum
+Button_CE7E23C6_DDD4_A5D1_4199_C9C4AE8BBF26.label = Lorem Ipsum
+Button_CE7E93C5_DDD4_A5D3_41B0_AF736CFB75BA.label = Lorem Ipsum
+Button_CE7EA3C5_DDD4_A5D3_41E2_92E6D9879A4B.label = Lorem Ipsum
+Button_CE7E73C7_DDD4_A5DF_41DC_9077AD979AFA.label = Lorem Ipsum
+Button_CE7EF3C6_DDD4_A5D1_41DB_2E2A8CEF14E4.label = Lorem Ipsum
+Button_CE7F03C6_DDD4_A5D1_41D3_E0B1AC2C6059.label = Lorem Ipsum
+Button_CE7FC3C8_DDD4_A5D1_41E2_7670ED66B1AA.pressedLabel = Lorem Ipsum
+Button_CE7EB3C7_DDD4_A5DF_41DA_90D188AA7E34.label = Lorem Ipsum
+Button_CE7EA3C7_DDD4_A5DF_41DA_F4274790C1C7.label = Lorem Ipsum
+Button_CE7FA3C8_DDD4_A5D1_41B7_286EFD09442B.label = Lorem Ipsum
+Button_CE7FC3C8_DDD4_A5D1_41E2_7670ED66B1AA.label = Lorem Ipsum
+Button_CE7EB3C7_DDD4_A5DF_41DA_90D188AA7E34.pressedLabel = Lorem Ipsum
+Button_CE7F93C6_DDD4_A5D1_41D7_5B608D5DD96B.label = Lorem Ipsum
+Button_CE7ED3C7_DDD4_A5DF_41E4_E2D34F676546.label = Lorem Ipsum
+Button_CE7F33C7_DDD4_A5DF_41D8_7CBCBBBC9CD7.label = Lorem Ipsum
+Button_CE7F23C7_DDD4_A5DF_41A2_ED29DBB08753.label = Lorem Ipsum
+Button_CE7F43C7_DDD4_A5DF_41DC_4FE7FBC87A01.label = Lorem Ipsum
+Button_F0DEEB19_E6E0_8A31_41C6_8C13111B5AED.label = Lorem Ipsum
+Button_CE7EE3C7_DDD4_A5DF_41D9_16DB06BE855A.label = Lorem Ipsum
+Button_CE7F13C7_DDD4_A5DF_41BD_527543E9A4F0.label = Lorem Ipsum
+Button_CE7F83C9_DDD4_A5D3_41DF_C6D35982D179.label = Lorem ipsum
+Button_CE7FF3C8_DDD4_A5D1_41E9_7FD4536B9853.label = Lorem ipsum
+Button_CE7F03C7_DDD4_A5DF_41C6_719C4B9B6822.label = Lorem ipsum
+Button_F0DE9B19_E6E0_8A31_41E5_CD7450E73C38.label = Lorem ipsum
+Button_F0DD5B1D_E6E0_8A31_41C4_1EADAB1D1596.label = Lorem ipsum
+Button_F0DC1B1E_E6E0_8A33_41EA_204824DA67FD.label = Lorem ipsum
+Button_CE7E63C5_DDD4_A5D3_41D8_A47E808C28BF.label = Lorem ipsum
+Button_F0DDDB1B_E6E0_8A31_41C9_9C7E04ADAF9A.label = Lorem ipsum
+Button_F0DC6B1A_E6E0_8A33_41DF_403E6E9B0BE2.label = Lorem ipsum
+Button_CE7F73C6_DDD4_A5D1_41E0_614FFE4A6730.label = Lorem ipsum
+Button_F0DE9B17_E6E0_8A31_41A1_7F348DE7028A.label = Main Entrance
+Button_CE7E83B5_DDD4_A5B3_41C1_491705912341.label = Main Entrance
+Button_F0DD5B18_E6E0_8A3F_41B4_BA679377346D.label = Meeting Area 1
+Button_CE7EB3B5_DDD4_A5B3_4171_31F6AF9888EC.label = Meeting Area 1
+Button_CE7ED3B5_DDD4_A5B3_41E0_E57D8E405B80.label = Meeting Area 2
+Button_F0DD3B18_E6E0_8A3F_41DA_176A5F7C79DF.label = Meeting Area 2
+Button_F0DE2B15_E6E0_8A31_41CC_C9F547F218E5.label = RECEPTION >
+Button_F0DF1B16_E6E0_8A33_41E0_30B603706B80.label = RESTAURANTS >
+Button_CE7EA3B4_DDD4_A5B1_41C1_9EA3AD8639EF.label = RESTAURANTS >
+Button_F0DE0B15_E6E0_8A31_41DF_4276E46AD90E.label = ROOMS >
+Button_CE7E23B3_DDD4_A5B7_41D5_414DABD4DF07.label = ROOMS >
+Button_CE7EA3B5_DDD4_A5B3_41EB_39CD551C8479.pressedLabel = Reception
+Button_CE7EA3B5_DDD4_A5B3_41EB_39CD551C8479.label = Reception
+Button_F0DD4B18_E6E0_8A3F_41DE_001758724DF7.label = Reception
+Button_F0DD4B18_E6E0_8A3F_41DE_001758724DF7.pressedLabel = Reception
+Button_CE7E63B3_DDD4_A5B7_41D5_F81F6A56D772.label = SPORTS AREA >
+Button_F0DEDB16_E6E0_8A33_41C6_093D696F11AF.label = SPORTS AREA >
+Button_F0DF2B16_E6E0_8A33_41D0_634FDB22D751.label = SWIMMING POOL >
+Button_CE7E83B3_DDD4_A5B7_41BB_1C631708EE5E.label = SWIMMING POOL >
+Button_CE7983C4_DDD4_A5D1_41E5_E4AB4E8C1D78.label = Terrace
+Button_F0DDEB18_E6E0_8A3F_41DA_5835C9E41A89.label = Terrace
+
+### Image
+Image_CE79D3B3_DDD4_A5B7_41EB_1BCA19436715.url = skin/Image_CE79D3B3_DDD4_A5B7_41EB_1BCA19436715_pt.png
+Image_F0DE6B15_E6E0_8A31_41C1_DB2451BDAFFB.url = skin/Image_F0DE6B15_E6E0_8A31_41C1_DB2451BDAFFB_pt.png
+
+### Multiline Text
+HTMLText_F0DFAB16_E6E0_8A33_41D4_9E9727413274.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_CE7F03B4_DDD4_A5B1_41E1_1575558B7034.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Mentoria
